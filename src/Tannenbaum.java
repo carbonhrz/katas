@@ -10,19 +10,6 @@ Eingabe ist die Höhe des Tannenbaums. Als Beispiel ein Tannenbaum der Höhe 5:
         XXXXXXXXX
             I
 
-             Tannenbaum t = new Tannenbaum();
-        t.zeichnen(5);
-public void zeichnen(int hoehe) {
-        for (int i = 0; i< hoehe; i++) {
-            System.out.println();
-            for (int j=1; j <= hoehe; j++ ) {
-                    System.out.print("X");
-                }
-
-            }
-        }
-
-        System.out.print(abs(len/2, i) < ((j <= len/2+1) ? j : len-j+1) ? j : " ");
 */
 
 public class Tannenbaum {
